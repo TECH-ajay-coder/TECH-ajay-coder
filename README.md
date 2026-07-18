@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:06B6D4,100:8B5CF6&text=Ajay%20Kushwaha&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Data%20Analytics%20|%20B.Tech%20CSE&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:38BDF8,33:7F1D1D,66:1E3A8A,100:C2410C&text=Ajay%20Kushwaha&font=Audiowide&fontColor=F8FAFC&fontSize=50&animation=twinkling&fontAlignY=38&desc=Python%20Developer%20|%20Data%20Analytics%20|%20B.Tech%20CSE&descColor=E2E8F0&descAlignY=60"/>
 
 # Hi 👋, I'm Ajay Kushwaha
 ### 🐍 Python Developer | 📊 Data Analytics Enthusiast | 🎓 B.Tech CSE Student
@@ -38,7 +38,7 @@
 
 ```text
 🐍 Python           █████████░ 90%
-🗄 SQL              ████████░░ 80%
+🗄 SQL               ████████░░ 80%
 📊 Excel            ████████░░ 85%
 🌐 HTML             ███████░░░ 75%
 💻 C Programming    ███████░░░ 70%
@@ -86,19 +86,6 @@ Simple web-based project.
 </div>
 
 ---
-
-# 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/TECH-ajay-coder/TECH-ajay-coder/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/TECH-ajay-coder/TECH-ajay-coder/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/TECH-ajay-coder/TECH-ajay-coder/output/github-contribution-grid-snake.svg">
-</picture>
----
-
 # 🌐 Connect With Me
 
 <p align="center">
